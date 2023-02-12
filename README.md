@@ -1,2 +1,2 @@
 # cv
-fyzanshail.github.io
+https://fyzanshaik.github.io/
