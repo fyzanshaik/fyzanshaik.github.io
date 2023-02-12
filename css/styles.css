@@ -1,0 +1,12 @@
+body {
+    background-color: powderblue;
+}
+hr {
+    border-style:  dotted none none;
+    border-color: burlywood;
+    border-width: 10px;
+    width: 50%;
+}
+img {
+    height : 200px;
+}
