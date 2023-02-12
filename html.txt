@@ -1,0 +1,18 @@
+HTML : Hyper Text Markup Language
+Hyper Text : Highlighted texts that lead to different files
+Markup Language : Highlighting texts in different ways
+<Header> Tags:
+H(1-6) they decrease in size with number
+h1 is ued for heading/title of an website
+<br> is for line break in HTML
+</Header>
+
+<!-- --> is used as comment Tags
+
+<em> used for italicizing texts</em>
+
+<ul> un ordered lists example bullet points indented text with <li></li></ul>
+<ol> ordered list for numbered lines </ol>
+<ol type = "i"> for ROMAN numbering
+
+<p><em>ECE freshman <strong>Aspiring Web developer</strong></em></p>
